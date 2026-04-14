@@ -77,21 +77,6 @@
 - 결제 실패/취소 상황까지 고려한 데이터 처리 흐름을 구현하며 정합성의 중요성을 체득
 ---
 
-## 📸 주요 기능 화면
-
-- 상품 등록 및 관리 화면
-<img width="500" height="500" alt="{DE9BAC48-DD3B-45AC-A9EF-BEAA235D9CBD}" src="https://github.com/user-attachments/assets/5f18f871-e355-408c-809a-8c6687ab3e18" />
-<br><br>
-
-- 장바구니 및 결제 화면
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/a43d8609-860d-4422-9c71-aaa2dc6aef1f" width="500"/>
-  <img src="https://github.com/user-attachments/assets/403afb55-cb68-4835-876b-dc6a66edb835" width="500" height="300"/>
-</div>
-<br><br>
-
-- 소셜 로그인 연동 화면  
- <img width="377" height="398" alt="{D155BE0B-3B70-4B0A-A203-97447FAC41D4}" src="https://github.com/user-attachments/assets/1459bb09-58e9-4de9-94c9-f3ccfba08340" />
 
 
 
